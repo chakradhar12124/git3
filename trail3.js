@@ -1,2 +1,2 @@
-a=10;
+a=1024;
 console.log(a);
